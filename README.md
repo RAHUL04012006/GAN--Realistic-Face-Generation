@@ -2,6 +2,9 @@
 
 This repository contains code and documentation for generating realistic human face images using Generative Adversarial Networks (GANs). GANs are a class of deep learning models capable of producing synthetic but highly realistic data, particularly images.
 
+<img width="553" height="550" alt="image" src="https://github.com/user-attachments/assets/042fa39c-30ad-4832-80c3-daada02ed17b" />
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
